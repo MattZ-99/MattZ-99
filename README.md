@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattZ-99&show_icons=true&hide=stars&theme=radical)
+![MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattZ-99&show_icons=true&hide=stars&theme=radical&count_private=true)
 
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
