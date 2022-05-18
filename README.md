@@ -1,6 +1,6 @@
-### Hello :panda_face:
+### Hi! :panda_face:
 
-Programming Languages:
+:desktop_computer: Programming Languages:
 
 ```
           Python: ████████████████░░░░░░░░░ 65.30%
@@ -10,4 +10,4 @@ Jupyter Notebook: ███████░░░░░░░░░░░░░�
                C: ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.40%
 ```
 
-Last updated on Wed May 18 09:21 2022 (UTC)
+Last updated on Wed May 18 09:25 2022 (UTC)
