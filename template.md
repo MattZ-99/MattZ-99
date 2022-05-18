@@ -1,6 +1,6 @@
-### Hello :panda_face:
+### Hi! :panda_face:
 
-Programming Languages:
+:desktop_computer: Programming Languages:
 
 ```
 {{ bar }}
