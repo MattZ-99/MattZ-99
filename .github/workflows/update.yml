@@ -32,5 +32,5 @@ jobs:
         git add -f README.md
         git config user.name "GitHub Actions"
         git config user.email "None"
-        git commit -m "update README"
+        git commit -m "Update README by robot."
         git push
