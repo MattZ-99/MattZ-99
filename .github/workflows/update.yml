@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 21 * * *'
-    # - cron: '0 0 * * 0'
+    # - cron: '30 21 * * *'
+    - cron: '0 0 * * 0'
   push:
 
 jobs:
@@ -31,6 +31,6 @@ jobs:
       run: |
         git add -f README.md
         git config user.name "GitHub Actions"
-        git config user.email "None"
+        git config user.email "action@github.com"
         git commit -m "Update README by robot."
         git push
