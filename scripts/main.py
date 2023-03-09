@@ -40,7 +40,7 @@ for x in code_sizes_list:
 code_sizes_list = code_sizes_list[:top_x_language]
 
 block_t = "█"
-block_f = "░"
+block_f = " "
 block_len = 25
 
 lang_len = 0
