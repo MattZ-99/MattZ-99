@@ -3,11 +3,11 @@
 :desktop_computer: Programming Languages:
 
 ```
-          Python: █████████████████████     83.43%
-Jupyter Notebook: ███                       10.71%
-             C++: █                         3.71%
-           Shell:                           1.42%
+          Python: █████████████████████     83.50%
+Jupyter Notebook: ███                       10.66%
+             C++: █                         3.70%
+           Shell:                           1.41%
             Cuda:                           0.58%
 ```
 
-Last updated on Thu Mar 09 12:12 2023 (UTC)
+Last updated on Sun Mar 12 01:49 2023 (UTC)
